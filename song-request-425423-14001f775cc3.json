@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "song-request-425423",
+  "private_key_id": "14001f775cc3a706a0f0bae6926f56d281a4394d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzMHUuXsx23pk5\nxcUdt5rvFeaSZHwn4/9aSc4nIPO1vverAh2iKpurw5Wc0QWQxX+GtJY+futPrRe8\naMKX8y1Hhcd93Bl5iGNHMiF3g8Nv4oWQ2PCDa2Sfv5+m7XpxdFohurBiuRVe6qqF\ndnKzdqQ7LsDpYBogoE54agD25jQ+OcKA0oJhI+Mo0j3GJAmE/04v6JlE7SnanGQg\n1W1VyxabkI0Pdf0Poy03L0JMQ0k0R4sX3SxQHmeFu1wQbTckhIde4odxiG1QqGAm\npRVVeveYCSmXMeLWo00L+RbCvAvwJRWsX98ibx9q2J9yrxiUB/n5eeqFd9W9FNP5\nnMC8J9bLAgMBAAECggEAITspYDIghSL/E6HDzqEQUKqlGh0ckWFNJ/dsDgGkcN47\nnDFGQZ7ZQ99/zZdOCu01m0u+WVS8Wwhk0II1JGzqxsrelk7NQqaykq+PWVTMV+GQ\nl65D3Ht8K8wj1ZdRD91eIcc3kvd0KSgn+5xd5T5pcrhW+nDiJ47TPq2aBC/pHGjW\nDRJzxqiEoM212SGbKZnCrFV9UsPKBdXA8EHGaK1b4wa4s83swDs59VvJAuY9usmK\no5e6oNzcb+LhWgzrUbF0IEOd2TcejKEpBIyP+BUDf4b93tdWwe3YbZgSv96UiP0D\nuTJRmcNBXrKABwE7beRfSCTqg8zjjZBwFiOUT6t/IQKBgQDqvZsZ6SM1i1lfw2vv\ndnQs/L26UkV/GlOGZu/Sg/H8+zYFMf63lrrIeL2b/5RArHhVo5b+U5DnA2nj03VS\nOH5Z2EdvtEdZ32nusVwZZENCYyqmeKw4lQXWPiXmwosYAYIFudWYiCSfcNeYAlcC\nODuCsK5vtf9bhpkVwQjIh+MY0wKBgQDDaujeBOh4girWB/RLMUcsssOK/Dx7UzmZ\npnY1n5i4OQw5X4m1/NjYU1KjFWNRzuQzHQX5kbtZkZ/XFh9WZYqgPbDpYhKzO1Ql\nQhxcm6OPMoq8dNAcOQI42TA8mP8b9gS81Ao86XhPJ0rRke8kZ66zQs8L62mpoyBr\nz3A8t4mPKQKBgQCDuIebH4ahWiN5qCgeBEMmp2AzeE0FCJnL9mEmqOGWSsTCX46G\nKG+BZLdJHT5smBsiOxzUc8IAz5qQvCy+SXMlKUbUuL29Aa/ov99lZCyVyR26skY5\nre3Lja4o8gupGdeDLQddgy/BxElGRDHczf8e09PeXasACeRHH721AQN+/wKBgFXo\niwUHrVdFCiXbi1b/C+YnlHVmXARvWvQkTPVX+yCJ28jhKj46MO4w+zQ8s9QEGygp\nSzYjDfTbYySAUjh+HUpCtKJ0/fmTTHOws502wtmyA3HD/LVbjpGFUYJiVExrhDur\nD/ElRkGt6WNmP3aGqjOeXD1GOcZcs2UR5aqbmTq5AoGALLcFbyKFU2c0+V8Pg7eQ\n9j/fZEkylX47Z4BokpIgHMW3luZ7rj13CX3bp52CZDQVqcyw6+2jEAGWs5Y8GUCB\nlNEPeQT2vI0uSvWVpOTqVqaNDydf4XHB097iBnkc6Q+kwM3T3o5gQCndKdsHe/G0\nEgqWnRSC1p48uFhOrR3HrZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "redd-213@song-request-425423.iam.gserviceaccount.com",
+  "client_id": "106524812698959765259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/redd-213%40song-request-425423.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
